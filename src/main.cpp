@@ -2,7 +2,7 @@
 
 int main()
 {
-	//ariel was here
+	//ariel was here 2
 	GameMaster portal;
 	portal.run();
 

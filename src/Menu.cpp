@@ -1,5 +1,5 @@
 #include "Menu.h"
-
+//ariel was here 2
 void Menu::runMenu(sf::RenderWindow& window)
 {
 	startWindow(window);
