@@ -1,0 +1,22 @@
+target_sources (Portal PRIVATE "main.cpp"
+	                                "GameMaster.cpp"
+									"Board.cpp"
+									"File.cpp"
+									"Menu.cpp"
+									"MenuButton.cpp"
+									"GameObject.cpp"
+									"FixedObject.cpp"
+									"UnfixedObject.cpp"
+									"Player.cpp"
+									"Wall.cpp"
+									"Trampoline.cpp"
+									"Acid.cpp"
+									"Button.cpp"
+									"Elevator.cpp"
+									"Box.cpp"
+									"Laser.cpp"
+									"TimePresent.cpp"
+									"Singleton.cpp"
+									"Animation.cpp")
+
+									  
